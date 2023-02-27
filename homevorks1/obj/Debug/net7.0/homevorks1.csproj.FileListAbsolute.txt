@@ -1,0 +1,15 @@
+C:\Users\79281\Desktop\C#LESSION\homeworks\homevorks1\bin\Debug\net7.0\homevorks1.exe
+C:\Users\79281\Desktop\C#LESSION\homeworks\homevorks1\bin\Debug\net7.0\homevorks1.deps.json
+C:\Users\79281\Desktop\C#LESSION\homeworks\homevorks1\bin\Debug\net7.0\homevorks1.runtimeconfig.json
+C:\Users\79281\Desktop\C#LESSION\homeworks\homevorks1\bin\Debug\net7.0\homevorks1.dll
+C:\Users\79281\Desktop\C#LESSION\homeworks\homevorks1\bin\Debug\net7.0\homevorks1.pdb
+C:\Users\79281\Desktop\C#LESSION\homeworks\homevorks1\obj\Debug\net7.0\homevorks1.csproj.AssemblyReference.cache
+C:\Users\79281\Desktop\C#LESSION\homeworks\homevorks1\obj\Debug\net7.0\homevorks1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79281\Desktop\C#LESSION\homeworks\homevorks1\obj\Debug\net7.0\homevorks1.AssemblyInfoInputs.cache
+C:\Users\79281\Desktop\C#LESSION\homeworks\homevorks1\obj\Debug\net7.0\homevorks1.AssemblyInfo.cs
+C:\Users\79281\Desktop\C#LESSION\homeworks\homevorks1\obj\Debug\net7.0\homevorks1.csproj.CoreCompileInputs.cache
+C:\Users\79281\Desktop\C#LESSION\homeworks\homevorks1\obj\Debug\net7.0\homevorks1.dll
+C:\Users\79281\Desktop\C#LESSION\homeworks\homevorks1\obj\Debug\net7.0\refint\homevorks1.dll
+C:\Users\79281\Desktop\C#LESSION\homeworks\homevorks1\obj\Debug\net7.0\homevorks1.pdb
+C:\Users\79281\Desktop\C#LESSION\homeworks\homevorks1\obj\Debug\net7.0\homevorks1.genruntimeconfig.cache
+C:\Users\79281\Desktop\C#LESSION\homeworks\homevorks1\obj\Debug\net7.0\ref\homevorks1.dll
