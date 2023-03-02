@@ -101,16 +101,16 @@
 // 8 -> 2, 4, 6, 8
 
 
-Console.Write("number: ");
-int n = Convert.ToInt32(Console.ReadLine());
+// Console.Write("number: ");
+// int n = Convert.ToInt32(Console.ReadLine());
 
-int current = 2;
+// int current = 2;
 
-if(n > 1)
-{
-    while(current <= n)
-    {
-        Console.Write(current + " ");
-        current = current + 2;
-    }
-}
+// if(n > 1)
+// {
+//     while(current <= n)
+//     {
+//         Console.Write(current + " ");
+//         current = current + 2;
+//     }
+// }
