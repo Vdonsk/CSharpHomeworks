@@ -3,12 +3,12 @@
 // N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
 
 
-// void ShowNumbers(int n)
+// void ShowNumbers(int N)
 // {
-// if (n >= 1)
+//     if (N >= 1)
 //     {
-//         Console.Write(n+ ", ");
-//         ShowNumbers(n-1);
+//         Console.Write(N + ", ");
+//         ShowNumbers(N - 1);
 //     }
 // }
 // ShowNumbers(8);
@@ -18,3 +18,25 @@
 // M = 1; N = 15 -> 120
 // M = 4; N = 8. -> 30
 
+// int FindSum(int M, int N)
+// {
+//     if (M != N)
+//     {
+//         if (M <= N)
+//         {
+//             return FindSum(M + 1, N) + M;
+//         }
+//         else
+//         {
+//             return FindSum(M, N + 1) + N;
+//         }
+//     }
+//     else return M;
+// }
+
+// Console.Write("Input M: ");
+// int M = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Input N: ");
+// int N = Convert.ToInt32(Console.ReadLine());
+
+// Console.WriteLine($"From M = {M} before N = {N} sum of natural elements = {FindSum(M, N)}");
