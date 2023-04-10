@@ -154,3 +154,59 @@
 // Show2DArray(myArray);
 // int[] arraySumRows = SumRows(myArray);
 // SmalleSumRows(arraySumRows);
+
+
+// Задача 60. ...Сформируйте трёхмерный массив из неповторяющихся двузначных чисел. Напишите программу, которая будет построчно выводить массив, добавляя индексы каждого элемента.
+// Массив размером 2 x 2 x 2
+// 66(0,0,0) 25(0,1,0)
+// 34(1,0,0) 41(1,1,0)
+// 27(0,0,1) 90(0,1,1)
+// 26(1,0,1) 55(1,1,1)
+
+
+// int[,,] Create3DRandomArray(int x, int y, int z, int minValue, int maxValue)
+// {
+//     int[,,] myArray = new int[x, y, z];
+//     for (int i = 0; i < x; i++)
+//     {
+//         for (int j = 0; j < y; j++)
+//         {
+//             for (int k = 0; k < z; k++)
+//             {
+//                 myArray[i, j, k] = new Random().Next(minValue, maxValue + 1);
+//             }
+//         }
+//     }
+//     return myArray;
+// }
+
+// void Show3DArray(int[,,] array)
+// {
+//     for (int i = 0; i < array.GetLength(0); i++)
+//     {
+//         for (int j = 0; j < array.GetLength(1); j++)
+//         {
+//             for (int k = 0; k < array.GetLength(2); k++)
+//             {
+//                 Console.WriteLine($"{array[i, j, k]} ({i},{j},{k}) ");
+//             }
+//             Console.WriteLine();
+//         }
+//         Console.WriteLine();
+//     }
+//     Console.WriteLine();
+// }
+
+// Console.Write("Input the number of x: ");
+// int x = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Input the number of y: ");
+// int y = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Input the number of z: ");
+// int z = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Input minimal values: ");
+// int minValue = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Input maximum values: ");
+// int maxValue = Convert.ToInt32(Console.ReadLine());
+
+// int[,,] myArray = Create3DRandomArray(x, y, z, minValue, maxValue);
+// Show3DArray(myArray);
